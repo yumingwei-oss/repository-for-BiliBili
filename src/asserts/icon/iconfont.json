@@ -1,0 +1,23 @@
+{
+  "id": "1951597",
+  "name": "iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-my-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "902052",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "9186714",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    }
+  ]
+}
